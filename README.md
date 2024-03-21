@@ -3,7 +3,32 @@
 ## Week 1 
 
 ### Challenges 
-- 
+
+possible/boring 
+- knowing which document you need to bring
+- you don't know how to plan?
+- what is the availability of your friends?
+- finding trip or place for a big group
+- who is leading the trip?
+- how to organize trip with my friends?
+- language
+  
+possible/exciting 
+- what are the possible destinations to visit?
+- not travelling with people with the same personality/travel goal
+- get help to choose the final plan
+- how to gather everyone at once (activity, time, destination) 
+- based on the age, belief and hobbies
+- collaborative calender are not eady to set up
+- can't manage to communicate with everybody
+- choosing a destination together can be difficult 
+
+impossible/boring 
+- nothing 
+
+impossible/exciting 
+- hard to make new friends
+- you need multiple sites to book a trip 
 
 ### Assumption 
 
