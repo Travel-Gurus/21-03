@@ -97,19 +97,20 @@ impossible/exciting
 
 ### Find the best ideas  
 
+![WhatsApp Image 2024-03-22 at 11 13 01](https://github.com/Travel-Gurus/DPD/assets/99247210/9b1fb94a-81e7-4f91-99e9-0181dbd7e31d)
 
 
-- Idea 1:
-- Idea 2:
-- Idea 3:
-- Idea 4:
-- Idea 5: 
+- Idea 1: Can't manage to communicate with everybody
+- Idea 2: choosing a destination together can be difficult 
+- Idea 3: you don't know how to plan?
+- Idea 4: how to gather everyone at once (accomidation, time and destination)
+- Idea 5: finding a trip/place for a big group 
 
 ### Concepts 
 
-- Concept  1:
-- Concept  2:
-- Concept  3:
-- Concept  4:
-- Concept  5:
+- Concept  1: a way to commincate with everybodt 
+- Concept  2: a roullette/die game to help the planning 
+- Concept  3: a calender (like doodle) which can make plannning 
+- Concept  4: notifications/reminders to the group within the group chat 
+- Concept  5: partnering up with airbnb and other places which have big accomodation places 
 
