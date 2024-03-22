@@ -4,6 +4,8 @@
 It's difficult to plan a group trip. Calenders need to be aligned and everybody's budget needs to kept in place. 
 It's also difficult to make new friends. 
 
+# Double diamond 
+
 ## 1. Discover 
 
 ### Brain Walking 
@@ -93,4 +95,21 @@ impossible/exciting
 
 ## 4. Deliver 
 
+### Find the best ideas  
+
+
+
+- Idea 1:
+- Idea 2:
+- Idea 3:
+- Idea 4:
+- Idea 5: 
+
+### Concepts 
+
+- Concept  1:
+- Concept  2:
+- Concept  3:
+- Concept  4:
+- Concept  5:
 
